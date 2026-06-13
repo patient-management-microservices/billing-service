@@ -1,3 +1,4 @@
+com/pm/billingservice/grpc/BillingGrpcService.class
 billing/BillingServiceOuterClass.class
 billing/BillingServiceGrpc$AsyncService.class
 billing/BillingServiceGrpc$BillingServiceFutureStub.class
@@ -9,6 +10,7 @@ billing/BillingServiceGrpc$MethodHandlers.class
 billing/BillingResponseOrBuilder.class
 billing/BillingServiceGrpc$BillingServiceFileDescriptorSupplier.class
 billing/BillingRequest$Builder.class
+com/pm/billingservice/BillingServiceApplication.class
 billing/BillingServiceGrpc$BillingServiceMethodDescriptorSupplier.class
 billing/BillingServiceGrpc$1.class
 billing/BillingServiceGrpc$BillingServiceImplBase.class
