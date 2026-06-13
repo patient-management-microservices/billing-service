@@ -146,7 +146,7 @@
 				<version>0.6.1</version>
 				<configuration>
 					<protoSourceRoot>
-						${project.basedir}/contracts
+						${project.basedir}/contracts/billing
 					</protoSourceRoot>
 					<protocArtifact>com.google.protobuf:protoc:3.25.5:exe:${os.detected.classifier}</protocArtifact>
 					<pluginId>grpc-java</pluginId>
